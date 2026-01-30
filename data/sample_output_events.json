@@ -1,0 +1,26 @@
+{
+  "theater_name": "Demo Cinema - Region PL",
+  "address": "N/A",
+  "latitude": "N/A",
+  "longitude": "N/A",
+  "movies": [
+    {
+      "movie_name": "Sample Movie",
+      "category": "Action",
+      "showtimes": [
+        {
+          "date": "2025-01-20",
+          "times": [
+            {
+              "time": "18:30",
+              "format": "Standard",
+              "dubbed_language": "English",
+              "subtitle_language": "N/A",
+              "booking_url": "https://example.com/book"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
