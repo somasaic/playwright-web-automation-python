@@ -1,4 +1,8 @@
+
+
+
 # Playwright Web Automation (Python)
+![Github-Playwright-repo-preview&#39;](https://github.com/user-attachments/assets/e379b283-d056-4adb-b869-d421a5251a9d)
 
 ## Problem Statement
 Validating dynamic, JavaScript-heavy event booking websites across multiple regions is time-consuming when done manually. Repeated UI checks and data collection reduce QA efficiency and increase the risk of inconsistencies.
